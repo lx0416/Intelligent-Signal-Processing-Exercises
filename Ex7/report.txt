@@ -1,0 +1,61 @@
+-------------------------------
+Cosmos_War_of_the_Planets.mp4
+-------------------------------
+Video format OK!
+Video codec OK!
+Audio codec OK!
+Frame rate not correct
+Aspect ratio not correct
+Resolution not correct
+Video bit rate OK!
+Audio bit rate not correct
+Audio channels OK!
+-------------------------------
+Last_man_on_earth_1964.mov
+-------------------------------
+Video format not correct
+Video codec not correct
+Audio codec not correct
+Frame rate not correct
+Aspect ratio OK!
+Resolution OK!
+Video bit rate not correct
+Audio bit rate not correct
+Audio channels OK!
+-------------------------------
+The_Hill_Gang_Rides_Again.mp4
+-------------------------------
+Video format OK!
+Video codec OK!
+Audio codec OK!
+Frame rate OK!
+Aspect ratio OK!
+Resolution OK!
+Video bit rate not correct
+Audio bit rate OK!
+Audio channels OK!
+-------------------------------
+Voyage_to_the_Planet_of_Prehistoric_Women.mp4
+-------------------------------
+Video format OK!
+Video codec not correct
+Audio codec not correct
+Frame rate not correct
+Aspect ratio OK!
+Resolution OK!
+Video bit rate not correct
+Audio bit rate not correct
+Audio channels OK!
+-------------------------------
+The_Gun_and_the_Pulpit.av
+-------------------------------
+Video format not correct
+Video codec not correct
+Audio codec not correct
+Frame rate OK!
+Aspect ratio not correct
+Resolution not correct
+Video bit rate not correct
+Audio bit rate not correct
+Audio channels OK!
+-------------------------------
